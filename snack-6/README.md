@@ -1,0 +1,4 @@
+- il computer genera un numero casuale da 0 a 10
+- chiedere all'utente di inserire un numero
+- se il numero digitato dall'utente è uguale informo l'utente che ha vinto
+- se il numero digitato dall'utente è diverso informo l'utente che ha perso

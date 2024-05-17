@@ -1,0 +1,3 @@
+- stamapre la tabellina del 2 fino a 1000
+- chiedere all'utente di digitare un numero consentito
+- stampo la tabellina del 2 fino al numero inserito dall'utente

@@ -1,0 +1,4 @@
+- creare un array vuoto
+- chiedere 6 volte all'utente di inserire un numero
+- se dispari lo inserisco nell'array
+- stampa array risultante
