@@ -1,10 +1,9 @@
 'use strict';
 //dichiaro la variabile num e faccio generare un numero casuale da 1 a 10 al computer
 //il numero lo converto in un intero
-let num = parseInt(Math.random()*10);
+let num = Math.floor(Math.random()*10);
 //stampo il numero generato
 console.log(num);
-
 
 //chiedo di digitare un numero
 const userNum = prompt("digita un numero");
